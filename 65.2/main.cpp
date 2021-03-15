@@ -9,8 +9,8 @@ class file {
 		ifstream input;
  		ofstream output;
  		
- 		int licznik;
- 		int mianownik;
+ 		double licznik;
+ 		double mianownik;
 		
 		file();
 		~file();
