@@ -10,8 +10,8 @@ class file {
 		ifstream input;
  		ofstream output;
  		
- 		int licznik;
- 		int minaownik;
+ 		double licznik;
+ 		double minaownik;
 		
 		file();
 		~file();
